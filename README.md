@@ -1,11 +1,10 @@
 TGS2026にKCS福岡情報専門学校2年代表として出展させて頂いた作品です。
 ローカルマルチの2D対戦パーティーアクションゲーム
-制作人数：8人
+制作人数：12人
 開発期間：6ヶ月　2026年3月～2026年8月
 UnityRoom：https://unityroom.com/games/ornothing
 担当箇所
-・セレクト画面キャラ選択時のエフェクト＆演出処理No1orNothingCode\Scripts\Cursor\SelectCharaAnimation
-・ギミック処理（一部AI使用）No1orNothingCode\Scripts\SpotLight
-・スコア（一部AI使用）No1orNothingCode\Scripts\Player\PlayerScoreManager
-・イベント管理No1orNothingCode\Scripts\EventManager
-・リザルト（一部AI使用）No1orNothingCode\Scripts\Result
+・スコア上昇によるBGMや背景の変化
+・アイテムの黄色い枠表示
+
+その他コードはCodexのコード生成を使用することで作業時間を削減しました。
